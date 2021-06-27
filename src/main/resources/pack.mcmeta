@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "hide_hud_util resources",
+        "pack_format": 3,
+        "_comment": "All resources should be lowercase."
+    }
+}

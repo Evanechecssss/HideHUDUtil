@@ -1,0 +1,2 @@
+hide_hud_util.command.usage=/hud (show,hide)
+hide_hud_util.command.error=Ошибка комманды (-> используй /hud show или /hud hide)

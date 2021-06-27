@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hide_hud_util",
+  "name": "Hide HUD Util",
+  "description": "Util for hide HUD",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Evanechecssss"],
+  "credits": "The Forge and FML guys, for making Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
