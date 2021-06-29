@@ -1,6 +1,6 @@
 # HideHUDUtil
 
-**ENG:**
+# ENG:
 
 *This mod adds commands which allow to hide player's HUD
 Sometimes while creating Minecraft maps there are cases where you want to hide HUD for the end player (just like when they press the F1 button), but there's no way to achieve that besides changing player's gamemode to spectator.
@@ -16,7 +16,8 @@ Thus I present you a mod which is able to hide player's HUD (arm, health bar, ex
 
 /hud hide Player123 -> hides HUD for Player123
 
-**RU:**
+# RU:
+
 *Этот мод добавляет команды, с помощью которых можно спрятать HUD игрока.
 Часто у создателей карт в майнкрафте бывают ситуации, когда необходимо спрятать HUD как при нажатии F1, вот только без переноса игрока в режим наблюдателя такое не провернуть.
 Поэтому представляю вам мод, способный прятать HUD посредством команд. Таким образом его можно использовать в командных блоках и других модах, по типу CustomNPCS или Mappet.
