@@ -8,10 +8,13 @@ Thus I present you a mod which is able to hide player's HUD (arm, health bar, ex
 
 **AVAILABLE COMMANDS:**
 
-*/hud show -> reveals HUD for all players*
-*/hud hide -> hides HUD for all players*
-*/hud show Player123 -> reveals HUD for Player123*
-*/hud hide Player123 -> hides HUD for Player123*
+/hud show -> reveals HUD for all players
+
+/hud hide -> hides HUD for all players
+
+/hud show Player123 -> reveals HUD for Player123
+
+/hud hide Player123 -> hides HUD for Player123
 
 **RU:**
 *Этот мод добавляет команды, с помощью которых можно спрятать HUD игрока.
@@ -21,7 +24,10 @@ Thus I present you a mod which is able to hide player's HUD (arm, health bar, ex
 
 **ДОСТУПНЫЕ КОМАНДЫ:**
 
-*/hud show -> отображает HUD для всех игроков*
-*/hud hide -> скрывает HUD для всех игроков*
-*/hud show Player123 -> отображает HUD для игрока Player123*
-*/hud hide Player123 -> скрывает HUD для игрока Player123*
+/hud show -> отображает HUD для всех игроков
+
+/hud hide -> скрывает HUD для всех игроков
+
+/hud show Player123 -> отображает HUD для игрока Player123
+
+/hud hide Player123 -> скрывает HUD для игрока Player123
