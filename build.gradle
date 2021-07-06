@@ -11,7 +11,7 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 //Only edit below this line, the above code adds and enables the necessary things for Forge to be setup.
 
 
-version = "1.0"
+version = "1.1"
 group = "top.evanechecssss.hide_hud_util" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "hide_hud_util"
 
@@ -77,4 +77,3 @@ processResources {
         exclude 'mcmod.info'
     }
 }
-sourceSets { main { output.resourcesDir = output.classesDir } }
