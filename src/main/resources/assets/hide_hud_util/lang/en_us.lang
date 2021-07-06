@@ -1,4 +1,4 @@
-hide_hud_util.command.usage=/hud (show,hide,list) <player>
+hide_hud_util.command.usage=/hud (show,hide,list) <player> (only,but) <element,element>
 hide_hud_util.command.error=Command Error (-> use /hud show or /hud hide or /hud list)
 hide_hud_util.command.error_element=Command Error (-> don't know element %s)
 hide_hud_util.command.list.head=[HUD Elements list]

@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper;
 import org.apache.logging.log4j.Logger;
 import top.evanechecssss.hide_hud_util.network.CommonProxy;
 
-@Mod(modid = HideHUDUtil.Info.MOD_ID, name = HideHUDUtil.Info.NAME, version = HideHUDUtil.Info.VERSION)
+@Mod(modid = HideHUDUtil.Info.MOD_ID, name = HideHUDUtil.Info.NAME, version = HideHUDUtil.Info.VERSION, updateJSON = "https://gist.github.com/Evanechecssss/34b942a0d903261005ddafc62c8238ba.js")
 public class HideHUDUtil {
     @SidedProxy(clientSide = "top.evanechecssss.hide_hud_util.network.ClientProxy", serverSide = "top.evanechecssss.hide_hud_util.network.CommonProxy")
     private static CommonProxy proxy;
