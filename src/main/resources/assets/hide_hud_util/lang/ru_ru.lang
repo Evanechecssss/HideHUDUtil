@@ -1,6 +1,6 @@
 hide_hud_util.command.usage=/hud (show,hide,list) <player> (only,but) <element,element>
-hide_hud_util.command.error=Ошибка команды (используй /hud show, /hud hide или /hud list)
-hide_hud_util.command.error_element=Ошибка команды (неизвестный элемент интерфейса %s)
+hide_hud_util.command.error=Ошибка исполнения команды (используй /hud show, /hud hide или /hud list)
+hide_hud_util.command.error_element=Ошибка исполнения команды (неизвестный элемент интерфейса %s)
 hide_hud_util.command.list.head=[Список доступных элементов интерфейса]
 hide_hud_util.command.list_hand=§b ▶ hend§r (Видимость руки игрока)
 hide_hud_util.command.list_bar=§b ▶ bar§r (Видимость хотбара игрока)
@@ -20,4 +20,4 @@ hide_hud_util.command.list_lines=§b ▶ lines§r (Видимость обвод
 hide_hud_util.command.list_all=§4 ▶ all§r (Видимость всего)
 hide_hud_util.command.list_chat=§4 ▶ chat§r (Видимость чата)
 hide_hud_util.command.list_inventory=§4 ▶ inventory§r (Видимость инвентаря)
-hide_hud_util.config=Сохранять настройки видимости интерфейса вне зависимости от мира
+hide_hud_util.config=Сохранять настройки видимости интерфейса глобально вне зависимости от мира
