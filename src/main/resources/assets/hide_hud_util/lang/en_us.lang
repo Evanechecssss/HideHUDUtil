@@ -1,6 +1,6 @@
 hide_hud_util.command.usage=/hud (show,hide,list) <player> (only,but) <element,element>
-hide_hud_util.command.error=Command Error (-> use /hud show or /hud hide or /hud list)
-hide_hud_util.command.error_element=Command Error (-> don't know element %s)
+hide_hud_util.command.error=Command execution error, use /hud show, /hud hide or /hud list)
+hide_hud_util.command.error_element=Command execution error, unknown HUD element %s
 hide_hud_util.command.list.head=[List of available HUD elements]
 hide_hud_util.command.list_hand=§b ▶ hend§r (player's hand visibility)
 hide_hud_util.command.list_bar=§b ▶ bar§r (player's hotbar visibility)
